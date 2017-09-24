@@ -67,6 +67,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/AaronRandall/Screentendo
 - **stockfish-mac**: Beautiful, powerful chess app for the Mac
   - https://github.com/daylen/stockfish-mac
+- **Endless Sky**: sandbox-style space exploration game similar to Elite, Escape Velocity, or Star Control.
+  - https://github.com/endless-sky/endless-sky
 
 ### Mac Interface Exclusives
 - **AnyBar**: OS X menubar status indicator
